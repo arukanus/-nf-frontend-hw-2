@@ -2,6 +2,15 @@
 
 Welcome to the To-Do List App project! This repository is designed for students to practice their React skills by building a functional To-Do list application. The tasks are divided into three levels: Basic, Medium, and Hard. Each level introduces new concepts and challenges to enhance your understanding of React.
 
+# 📝 SCREENSHOTS
+
+<img width="1072" alt="Снимок экрана 2024-06-07 в 00 59 33" src="https://github.com/arukanus/-nf-frontend-hw-2/assets/110685861/c4529e92-5fad-4f9d-9c8f-79cffbdaf3cc">
+
+<img width="1072" alt="Снимок экрана 2024-06-07 в 00 59 58" src="https://github.com/arukanus/-nf-frontend-hw-2/assets/110685861/74ead5e9-fa80-465c-be8a-b281720f3760">
+
+<img width="1072" alt="Снимок экрана 2024-06-07 в 01 00 09" src="https://github.com/arukanus/-nf-frontend-hw-2/assets/110685861/4e34b093-cb83-469e-9f10-a178cfa6a106">
+
+
 ## 📚 Table of Contents
 
 - [Getting Started](#getting-started)
